@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**sleepyhead0/sleepyhead0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 自我介绍
+  大家好！我叫陈为靖，是2018级福州大学至诚学院计算机科学与技术专
+业2班的学生。 我是一个慢热的人，在熟悉的人眼里，我是一个话痨，对于不熟悉的人，我可能沉默寡言。日常生活中，我对拼装模型、手工制品等需要亲手制作的工艺品感兴趣。我很喜欢一句话：“静以修身，俭以养德，非淡泊无以明志，非宁静无以致远。”
 
-Here are some ideas to get you started:
+---
+ #### 未来目标
+- **总目标**：在保证基本课程学习的基础上，积极准备考研、上岸！！
+- **寒假目标**：先第一轮复习英语和微积分。每天根据《恋练有词》上每日分配的单词进行精学。每天下午3小时左右时间复习微积分。在空余时间可以穿插关注新闻、看看政治内容。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+#### 个人技能
+1. 基本掌握C语言和Python，Java编写能力较为薄弱
+2. 基本掌握MySQL和SQL Server的使用
+3. 对基于python的数据采集技术有一定的了解和使用
